@@ -4,7 +4,12 @@ html{
 
 body{
     background-color: #000000;
-    margin: 0;
+    margin-top: 0;
+}
+
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 #box_pagina{
@@ -24,4 +29,34 @@ header{
     background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
     background-size: 400px;
+}
+
+section{
+    margin-left: 5px;
+}
+
+h1{
+    margin-right: 10%;
+    margin-bottom: 0px;
+    margin-top: 18px;
+    font-size: 35px;
+}
+
+.testo-grigio{
+    font-size: 18px;
+    color: #808080;
+}
+
+#autore{
+    color: #20a9e5;
+}
+
+#data{
+    font-size: 12px;
+    margin-bottom: 18px;
+}
+
+.descrizione-foto{
+    font-size: 12px;
+    margin: 0px;
 }

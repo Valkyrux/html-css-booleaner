@@ -60,3 +60,13 @@ h1{
     font-size: 12px;
     margin: 0px;
 }
+
+#articolo{
+    margin: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.testo-evidenziato{
+    background-color: #ffff00;
+}

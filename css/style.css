@@ -79,7 +79,13 @@ table{
     margin: auto;
 }
 
-th{
+.c{
+    height: 20px;
+    width: 20%;
+    padding-right: 30px;
+}
+
+thead{
     color: #ffffff;
     background-color: #20a9e5;
     font-size: 15px;

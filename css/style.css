@@ -61,7 +61,7 @@ h1{
     margin: 0px;
 }
 
-#articolo{
+.articolo{
     margin: 5px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -69,4 +69,50 @@ h1{
 
 .testo-evidenziato{
     background-color: #ffff00;
+}
+
+li{
+    font-size: 15px;
+}
+
+table{
+    margin: auto;
+}
+
+th{
+    color: #ffffff;
+    background-color: #20a9e5;
+    font-size: 15px;
+    text-align: left;
+}
+
+.riga-dispari{
+    background-color: #b1e5f2;
+}
+
+h3{
+    margin: 5px;
+}
+
+
+.secondo{
+    font-size: 15px;
+}
+
+.foto-footer{
+    color: #ffffff;
+}
+
+#monitor{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    margin: 5px;
+}
+
+#graph{
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    margin: 5px;
 }
